@@ -1,7 +1,12 @@
 {
   "pages": [
-    "lesson1/index",
+    "lesson3/input",
+    "lesson3/addCgi/addCgi",
+    "lesson2/input",
     "example/index",
+    
+    "lesson1/index",
+    
     "example/index1",
     "example/button/button",
     "example/list/list",
